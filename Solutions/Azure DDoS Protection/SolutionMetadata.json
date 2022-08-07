@@ -1,0 +1,16 @@
+{
+    "publisherId":"azuresentinel",
+    "offerId": "azure-sentinel-solution-ddos",
+    "firstPublishDate": "2022-08-07",
+	"providers": [ "Microsoft" ],
+	"categories": {
+		"domains": [ "Security - Cloud Security" ],
+		"verticals": []
+     },
+     "support": {
+        "name": "Microsoft Corporation",
+        "email": "support@microsoft.com",
+        "tier": "Microsoft",
+        "link": "https://support.microsoft.com"
+     }
+}
